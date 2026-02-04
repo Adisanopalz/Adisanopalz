@@ -1,14 +1,4 @@
 
-Profile Previewer
-DESIGN STUDIO
-
-
-Preview
-
-Code
-index.html
-
-Copy HTML
 <div align="center">
   <!-- 1. HEADER GRADIENT ANIMATION -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,25&height=280&section=header&text=Adisanopalz&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Welcome%20to%20my%20creative%20space&descSize=20&descAlignY=60" alt="Header" width="100%"/>
@@ -99,6 +89,3 @@ Copy HTML
     <i>Let's build something amazing together.</i>
   </p>
 </div>
-Generated with  by Canvas
-
-Code copied to clipboard
