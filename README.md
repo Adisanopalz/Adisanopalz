@@ -1,62 +1,93 @@
-<div align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi,%20I'm%20Adisanopalz&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=ffffff" alt="Header" width="100%"/>
-
-  ## 🚀 Web Developer | Creative Designer
-
-  <p>
-    Selamat datang di profil GitHub saya! Saya fokus menciptakan pengalaman web yang interaktif dan desain yang menarik.
-    <br>
-    <i>"Building digital products with a touch of magic."</i>
-  </p>
-
-  <p>
-    <a href="https://adisanopalz.github.io" target="_blank">
-      <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" />
-    </a>
-    <a href="https://instagram.com/USERNAME_IG_KAMU" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-    </a>
-    <a href="mailto:EMAIL_KAMU@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-  </p>
-
-</div>
-
----
-
-### ⚡ What I'm Up To
-
-- 🔭 **Working on:** [Nama Proyek Keren Kamu]
-- 🌱 **Learning:** [Teknologi yang lagi dipelajari, misal: React / Three.js]
-- 🎨 **Interests:** UI/UX Design, Web Animation, & Branding
-- 🎯 **Goals:** Mengembangkan 100+ Web Apps
-
----
-
-### 🛠️ Tech Stack
+<!-- BUKA BAGIAN "RAW" ATAU "COPY" UNTUK MENGAMBIL SEMUA KODE INI -->
 
 <div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
-</div>
 
----
+<!-- 1. HEADER GRADIENT ANIMATION -->
 
-### 📊 GitHub Stats
+<!-- Ini memberikan kesan "Mahal" dengan background gelombang gradasi -->
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adisanopalz&show_icons=true&theme=radical&hide_border=true" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adisanopalz&layout=compact&theme=radical&hide_border=true" height="160" alt="languages graph" />
-</div>
+<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3Dgradient%26customColorList%3D0,2,2,25%26height%3D280%26section%3Dheader%26text%3DAdisanopalz%26fontSize%3D80%26fontAlignY%3D35%26animation%3DfadeIn%26fontColor%3Dffffff%26desc%3DWelcome%2520to%2520my%2520creative%2520space%26descSize%3D20%26descAlignY%3D60" alt="Header" width="100%"/>
 
-<br>
+<!-- 2. TYPING EFFECT (EFEK MENGETIK) -->
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Adisanopalz&style=flat-square&color=blueviolet" alt="visitor count"/>
+<!-- Mengganti teks statis dengan animasi mengetik -->
+
+<a href="https://www.google.com/search?q=https://git.io/typing-svg">
+<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26weight%3D500%26size%3D24%26pause%3D1000%26color%3D3F51B5%26center%3Dtrue%26vCenter%3Dtrue%26width%3D435%26lines%3DFrontend%2BDeveloper%3BUI%252FUX%2BEnthusiast%3BTech%2BExplorer%3BOpen%2BSource%2BContributor" alt="Typing SVG" />
+</a>
+
+
+
+
+
+<!-- 3. ABOUT ME - MINIMALIST STYLE -->
+
+<p width="600px">
+👋 <b>Hi there!</b> Saya adalah pengembang yang berfokus pada detail visual dan performa.
+
+
+
+
+Saya mengubah ide kompleks menjadi antarmuka yang <i>clean</i> dan interaktif.
+</p>
+
+<!-- 4. SOCIALS / CONTACT - MODERN ICONS -->
+
+<!-- Ganti link di bawah ini dengan link sosmed aslimu -->
+
+<p>
+<a href="https://www.google.com/search?q=https://adisanopalz.github.io" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Portfolio-100000%3Fstyle%3Dfor-the-badge%26logo%3Dvercel%26logoColor%3Dwhite" height="35" />
+</a>
+&nbsp;
+<a href="https://www.google.com/search?q=https://instagram.com/USERNAME_KAMU" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Instagram-E4405F%3Fstyle%3Dfor-the-badge%26logo%3Dinstagram%26logoColor%3Dwhite" height="35" />
+</a>
+&nbsp;
+<a href="mailto:emailmu@example.com" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Contact_Me-0078D4%3Fstyle%3Dfor-the-badge%26logo%3Dmicrosoft-outlook%26logoColor%3Dwhite" height="35" />
+</a>
+</p>
+
+<!-- 5. TECH STACK - SKILL ICONS (PREMIUM LOOK) -->
+
+<!-- Icon ini lebih elegan daripada badge biasa. Hapus yang tidak perlu. -->
+
+<h3>🛠️  T e c h n o l o g y &nbsp;  S t a c k</h3>
+
+<p>
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dhtml,css,js,ts,react,nextjs,tailwind,bootstrap,figma,git,github,vscode%26perline%3D6" />
+</p>
+
+
+
+
+
+<!-- 6. GITHUB STATS - TRANSPARENT & CLEAN -->
+
+<!-- Layout Grid agar terlihat rapi -->
+
+<table border="0">
+<tr>
+<td>
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DAdisanopalz%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26count_private%3Dtrue" height="180" alt="stats" />
+</td>
+<td>
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DAdisanopalz%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26langs_count%3D6" height="180" alt="languages" />
+</td>
+</tr>
+</table>
+
+<!-- 7. FOOTER / VISITOR COUNTER -->
+
+<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3DAdisanopalz%26style%3Dflat-square%26label%3DVisitors%26color%3Dblueviolet" alt="visitor count"/>
+
+
+
+
+
+<p style="font-size: 12px; color: #555;">
+<i>Let's build something amazing together.</i>
+</p>
+
 </div>
