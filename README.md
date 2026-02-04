@@ -17,7 +17,7 @@
   <!-- 4. SOCIALS / CONTACT -->
   <p>
     <!-- Website/Portfolio -->
-    <a href="https://adisanopalz.github.io" target="_blank">
+    <a href="https://sanop.carrd.co/" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=vercel&logoColor=white" height="30" />
     </a>
     &nbsp;
