@@ -56,7 +56,7 @@
   <!-- 5. TECH STACK -->
   <h3>🚀 &nbsp; L a n g u a g e s &nbsp; & &nbsp; T o o l s</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,php,react,vue,bootstrap,nodejs,nginx,spring,android,kotlin,mongodb,mysql,aws,azure,firebase,heroku,django,laravel,photoshop,illustrator,figma,blender,unity,unreal,linux,git&perline=8" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,php,react,vue,bootstrap,nodejs,android,mysql,aws,azure,firebase,laravel,photoshop,illustrator,figma,blender,unity,unreal,linux,git&perline=8" />
   </p>
 
   <!-- 6. GITHUB STATS -->
